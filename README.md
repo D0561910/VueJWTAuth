@@ -1,4 +1,4 @@
-# vuejwt
+# Vue Login + JWT Authentication
 
 ## Project setup
 ```
@@ -23,4 +23,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-https://bezkoder.com/jwt-vue-vuex-authentication/
+### Reference
+[Learn from website](https://bezkoder.com/jwt-vue-vuex-authentication/)
